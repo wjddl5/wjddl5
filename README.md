@@ -1,16 +1,20 @@
-## Hi there 👋
+<!-- 활동 그래프 -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wjddl5&theme=react-dark" alt="GitHub Activity Graph" />
+</div>
 
-<!--
-**wjddl5/wjddl5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 통계 카드 + 언어 카드 -->
+<div align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wjddl5&show_icons=true&theme=tokyonight&hide=contribs,prs" />
+  <br/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjddl5&layout=compact&card_width=420&theme=tokyonight" />
+</div>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- 백준 티어 -->
+<div align="left">
+  <a href="https://solved.ac/wjddl5796">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjddl5796" alt="Solved.ac Profile"/>
+  </a>
+</div>
